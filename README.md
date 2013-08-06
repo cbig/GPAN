@@ -1,4 +1,4 @@
-# Global Protecte Area Network (GPAN) analysis
+## Global Protected Area Network (GPAN) analysis
 
-## Variants
+### Variants
 

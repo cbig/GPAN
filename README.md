@@ -1,19 +1,18 @@
-
 ## Global Protected Area Network (GPAN) analysis
 
 ### Variants
 
 Variants 01-08 use IUCN threat category (`groups_iucn_category.txt`) as grouping.
 
-#### `GPAN_01_abf`
+1 #### `GPAN_01_abf`
 
 All species (n=?) using ABF.
 
-#### `GPAN_02_caz`
+2 #### `GPAN_02_caz`
 
 All species (n=?) using CAZ.
 
-#### `GPAN_03_abf_w`
+3 #### `GPAN_03_abf_w`
 
 All species (n=?) using ABF and weights (REFERENCE).
 

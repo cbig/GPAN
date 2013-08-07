@@ -2,7 +2,7 @@
 
 ### Variants
 
-Variants 01-06 use IUCN threat category (`groups_iucn_category.txt`) as grouping.
+Variants 01-06 use IUCN threat category (`groups_iucn_category_x_taxa.txt`, n=30) as grouping.
 
 ####1 GPAN_01_abf
 

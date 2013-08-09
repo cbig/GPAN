@@ -30,25 +30,25 @@ Variants 01-08 use IUCN threat category (`groups_iucn_category_x_taxa.txt`, n=29
 
 * All species (n=25009) weighted
 * ABF
-* Ecoregions (n=827, weghted 10)
+* Ecoregions (n=827, weighted 10)
 
 ####6 GPAN_06_caz_w_ecor_w10
 
 * All species (n=25009) weighted
 * CAZ
-* Ecoregions (n=827, weghted 10)
+* Ecoregions (n=827, weighted 10)
 
 ####7 GPAN_07_abf_w_ecor_w40
 
 * All species (n=25009) weighted
 * ABF
-* Ecoregions (n=827, weghted 40)
+* Ecoregions (n=827, weighted 40)
 
 ####8 GPAN_08_caz_w_ecor_w40
 
 * All species (n=25009) weighted
 * CAZ
-* Ecoregions (n=827, weghted 40)
+* Ecoregions (n=827, weighted 40)
 
 ----
 

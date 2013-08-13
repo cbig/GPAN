@@ -1,6 +1,9 @@
 ## Global Protected Area Network (GPAN) analysis
 
 ### Variants
+Commit summary: Extended description: (optional)
+PKullberg peter.kullberg@helsinki.fi
+
 
 Variants 01-08 use IUCN threat category (`groups_iucn_category_x_taxa.txt`, n=29) as grouping.
 
@@ -63,10 +66,15 @@ All species and ecoregions (n=25836) using CAZ, weights (REFERENCE) with adminis
 
 ### Common setup files
 
-`groups_iucn_category.txt `- grouping based on the IUCN threat category.  
+`groups_iucn_category_x_taxa.txt` - grouping based on the IUCN threat categories within taxonomic groups.
 
-`groups_iucn_taxa.txt `- grouping based on the IUCN taxonomic grouping (taxa).  
-
+	Group IDs used in the groups file:  
+	AMPHIBIANS:	LC = 1, NT = 2, VU = 3, EN = 4, CR = 5, DD = 6, EX = 7, EW = 7  
+	BIRDS: LC = 8, NT = 9, VU = 10, EN = 11, CR = 12, DD = 13, EX = 14, EW = 14  
+	MAMMALS: LC = 15, NT = 16, VU = 17, EN = 18, CR = 19, DD = 20, EX = 21, EW = 21  
+	REPTILES: LC = 22, NT = 23, VU = 24, EN = 25, CR = 26, DD = 27, EX = 28, EW = 28  
+	ECOREGIONS:	all = 29
+	
 `ADMU files` - how do we build these? 
 
 

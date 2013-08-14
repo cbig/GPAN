@@ -5,7 +5,9 @@ Commit summary: Extended description: (optional)
 PKullberg peter.kullberg@helsinki.fi
 
 
-Variants 01-08 use IUCN threat category (`groups_iucn_category_x_taxa.txt`, n=29) as grouping.
+Variants 01-04 use IUCN threat category (`groups_iucn_species.txt`, n=29) as grouping.
+
+Variants 04-08 use IUCN threat category (`groups_iucn_species_and_ecoregions.txt`, n=29) as grouping.
 
 ####1 GPAN_01_abf
 
@@ -66,7 +68,9 @@ All species and ecoregions (n=25836) using CAZ, weights (REFERENCE) with adminis
 
 ### Common setup files
 
-`groups_iucn_category_x_taxa.txt` - grouping based on the IUCN threat categories within taxonomic groups.
+`groups_iucn_species.txt` - grouping based on the IUCN threat categories within taxonomic groups.
+
+`groups_iucn_species_and_ecoregions.txt` - grouping based on the IUCN threat categories within taxonomic groups including eocregions as a separate group.
 
 	Group IDs used in the groups file:  
 	AMPHIBIANS:	LC = 1, NT = 2, VU = 3, EN = 4, CR = 5, DD = 6, EX = 7, EW = 7  

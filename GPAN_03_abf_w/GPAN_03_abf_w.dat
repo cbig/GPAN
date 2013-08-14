@@ -13,6 +13,9 @@ groups file = ../groups_iucn_species.txt
 mask missing areas = 1
 area mask file = ../../Data/GlobalData/9_Land_use_restrictions_conservation_areas/WorldDatabaseOnProtectedAreas/FINALS/IUCNWDPA_Grouped/IUCNWDPA_Grouped_r16b/IUCNWDPA_ItoIV_r16b.tif 
 
+load precooked vmat = vmat_bin
+save vmat = vmat_bin
+
 [Administrative units]
 use ADMUs = 0
 ADMU mode = 1

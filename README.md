@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/cbig/GPAN.png?label=ready)](https://waffle.io/cbig/GPAN)  
 ## Global Protected Area Network (GPAN) analysis
 
 ### Variants

@@ -9,9 +9,13 @@ z = 0.25
 post-processing list file = 
 memory save mode = 0
 use groups = 0
-groups file = groups_iucn_species.txt
+groups file = 
 mask missing areas = 0
 area mask file = ../../Data/GlobalData/9_Land_use_restrictions_conservation_areas/WorldDatabaseOnProtectedAreas/FINALS/IUCNWDPA_Grouped/IUCNWDPA_Grouped_r16b/IUCNWDPA_ItoIV_r16b.tif 
+
+[vmat]
+load precooked vmat = 
+save vmat = vmat_bin
 
 [Administrative units]
 use ADMUs = 0

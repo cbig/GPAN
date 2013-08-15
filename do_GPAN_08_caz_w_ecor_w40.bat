@@ -1,1 +1,1 @@
-call zig3.exe -r GPAN_08_caz_w_ecor_w40/GPAN_08_caz_w_ecor_w40.dat GPAN_08_caz_w_ecor_w40/GPAN_08_caz_w_ecor_w40.spp GPAN_08_caz_w_ecor_w40/output/GPAN_08_caz_w_ecor_w40.txt 0.0 0 1.0 0 --grid-output-formats=compressed-tif --image-output-formats=png 
+call zig4.exe -r GPAN_08_caz_w_ecor_w40/GPAN_08_caz_w_ecor_w40.dat GPAN_08_caz_w_ecor_w40/GPAN_08_caz_w_ecor_w40.spp GPAN_08_caz_w_ecor_w40/output/GPAN_08_caz_w_ecor_w40.txt 0.0 0 1.0 0 --grid-output-formats=compressed-tif --image-output-formats=png 

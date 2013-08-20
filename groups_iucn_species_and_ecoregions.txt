@@ -25038,7 +25038,6 @@
 99	-1	-1	-1	-1
 99	-1	-1	-1	-1
 99	-1	-1	-1	-1
-WoodlandsAndForests_r16p.tif	-1	-1	-1	-1
 99	-1	-1	-1	-1
 99	-1	-1	-1	-1
 99	-1	-1	-1	-1
@@ -25446,7 +25445,6 @@ WoodlandsAndForests_r16p.tif	-1	-1	-1	-1
 99	-1	-1	-1	-1
 99	-1	-1	-1	-1
 99	-1	-1	-1	-1
-PrincipeAndAnnobonMoistLowlandForests_r16p.tif	-1	-1	-1	-1
 99	-1	-1	-1	-1
 99	-1	-1	-1	-1
 99	-1	-1	-1	-1

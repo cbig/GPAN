@@ -74,12 +74,13 @@ All species and ecoregions (n=25836) using CAZ, weights (REFERENCE) with adminis
 
 `groups_iucn_species_and_ecoregions.txt` - grouping based on the IUCN threat categories within taxonomic groups including eocregions as a separate group.
 
-	Group IDs used in the groups file:  
-	AMPHIBIANS:	LC = 1, NT = 2, VU = 3, EN = 4, CR = 5, DD = 6, EX = 7, EW = 7  
-	BIRDS: LC = 8, NT = 9, VU = 10, EN = 11, CR = 12, DD = 13, EX = 14, EW = 14  
-	MAMMALS: LC = 15, NT = 16, VU = 17, EN = 18, CR = 19, DD = 20, EX = 21, EW = 21  
-	REPTILES: LC = 22, NT = 23, VU = 24, EN = 25, CR = 26, DD = 27, EX = 28, EW = 28  
-	ECOREGIONS:	all = 29
+The group code is a combination of species code + IUCN redlist category code, as follows: 
+<ul> <b> Species code: </b>  <br/>
+Amphibians = 1, Birds = 2, Mammals = 4, Reptiles = 7, Ecoregions = 9  <br/>
+<b> IUCN redlist category code: </b> <br/>
+Least concern = 1, Near threatened = 2, Vulnerable = 3, Endangered = 4, Critically endangered = 5, Data deficient = 6, <br/> Extinct in the wild = 7, Extinct = 7, All ecoregions = 9 </ul>
+
+An example: the group for a least concern bird would be 21.
 	
 `ADMU files` - how do we build these? 
 

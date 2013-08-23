@@ -82,7 +82,9 @@ Least concern = 1, Near threatened = 2, Vulnerable = 3, Endangered = 4, Critical
 
 An example: the group for a least concern bird would be 21.
 	
-`ADMU files` - how do we build these? 
+`GPAN_ADMU_description.txt` - countries as administrative units with area-standardized weights.
+
+`GPAN_ADMU_weight_matrix.txt` - all local weights are similar to globla weights 
 
 
 ### Variant-specific bat-files

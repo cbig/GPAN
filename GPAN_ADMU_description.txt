@@ -1,6 +1,6 @@
 #ID G_A beta_A name
 1 4.383406E-03 1 Afghanistan
-2 9.100320E-06 1 èAland
+2 9.100320E-06 1 Aland
 3 1.952990E-04 1 Albania
 4 1.573923E-02 1 Algeria
 5 1.544240E-06 1 American Samoa

@@ -212,7 +212,6 @@
 211 6.815910E-04 1 South Korea
 212 4.321609E-03 1 South Sudan
 213 3.437859E-03 1 Spain
-214 1.148940E-08 1 Spratly islands
 215 4.510820E-04 1 Sri Lanka
 216 1.279992E-02 1 Sudan
 217 9.985490E-04 1 Suriname
@@ -243,7 +242,6 @@
 242 1.208771E-03 1 Uruguay
 243 3.036002E-03 1 Uzbekistan
 244 8.434620E-05 1 Vanuatu
-245 4.376930E-09 1 Vatican City
 246 6.239272E-03 1 Venezuela
 247 2.244701E-03 1 Vietnam
 248 2.448480E-06 1 Virgin Islands U.S.

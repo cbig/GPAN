@@ -14,8 +14,8 @@ mask missing areas = 1
 area mask file = ../../Data/GlobalData/9_Land_use_restrictions_conservation_areas/WorldDatabaseOnProtectedAreas/FINALS/IUCNWDPA_Grouped/IUCNWDPA_ItoIVMintersect_r16b/IUCNWDPA_ItoIVTerrMintersect_r16b.tif
 
 [vmat]
-load precooked vmat = 
-save vmat = vmat_bin
+load precooked vmat = GPAN_w_ecor.vmat_bin.gz
+#save vmat = vmat_bin
 
 [Administrative units]
 use ADMUs = 0

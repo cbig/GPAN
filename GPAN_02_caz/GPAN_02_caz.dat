@@ -15,8 +15,8 @@ area mask file = ../../Data/GlobalData/9_Land_use_restrictions_conservation_area
 
 
 [vmat]
-load precooked vmat = vmat_bin
-#save vmat = vmat_bin
+load precooked vmat = GPAN_spp_only.vmat_bin.gz
+#save vmat = 
 
 [Administrative units]
 use ADMUs = 0

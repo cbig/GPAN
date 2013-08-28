@@ -1,0 +1,252 @@
+#ID G_A beta_A name
+1 4.383406E-03 1 Afghanistan
+2 9.100320E-06 1 Aland
+3 1.952990E-04 1 Albania
+4 1.573923E-02 1 Algeria
+5 1.544240E-06 1 American Samoa
+6 3.076300E-06 1 Andorra
+7 8.535765E-03 1 Angola
+8 5.428760E-07 1 Anguilla
+9 8.226986E-02 1 Antarctica
+10 2.990810E-06 1 Antigua and Barbuda
+11 1.892099E-02 1 Argentina
+12 2.013220E-04 1 Armenia
+13 1.232310E-06 1 Aruba
+14 5.243110E-02 1 Australia
+15 5.679200E-04 1 Austria
+16 5.862340E-04 1 Azerbaijan
+17 9.144980E-05 1 Bahamas
+18 4.507690E-06 1 Bahrain
+19 9.537530E-04 1 Bangladesh
+20 2.991430E-06 1 Barbados
+21 1.398046E-03 1 Belarus
+22 2.077210E-04 1 Belgium
+23 1.505490E-04 1 Belize
+24 7.895840E-04 1 Benin
+25 4.727080E-07 1 Bermuda
+26 2.729110E-04 1 Bhutan
+27 7.405286E-03 1 Bolivia
+28 2.234010E-06 1 Bonaire Saint Eustatius and Saba
+29 3.465040E-04 1 Bosnia and Herzegovina
+30 3.947088E-03 1 Botswana
+31 5.265990E-07 1 Bouvet Island
+32 5.813794E-02 1 Brazil
+33 4.650490E-07 1 British Indian Ocean Territory
+34 1.146690E-06 1 British Virgin Islands
+35 3.937220E-05 1 Brunei
+36 7.621260E-04 1 Bulgaria
+37 1.880411E-03 1 Burkina Faso
+38 1.836660E-04 1 Burundi
+39 1.240155E-03 1 Cambodia
+40 3.182958E-03 1 Cameroon
+41 6.717650E-02 1 Canada
+42 2.810560E-05 1 Cape Verde
+43 2.523567E-03 1 Caspian Sea
+44 1.910120E-06 1 Cayman Islands
+45 4.241806E-03 1 Central African Republic
+46 8.682324E-03 1 Chad
+47 5.151708E-03 1 Chile
+48 6.381748E-02 1 China
+49 9.593680E-07 1 Christmas Island
+50 6.319190E-08 1 Clipperton Island
+51 2.240440E-07 1 Cocos Islands
+52 7.778488E-03 1 Colombia
+53 1.150090E-05 1 Comoros
+54 1.761170E-06 1 Cook Islands
+55 3.496260E-04 1 Costa Rica
+56 2.200953E-03 1 Cote d'Ivoire
+57 3.871960E-04 1 Croatia
+58 7.557320E-04 1 Cuba
+59 3.038960E-06 1 Curacao
+60 6.307780E-05 1 Cyprus
+61 5.327020E-04 1 Czech Republic
+62 1.592949E-02 1 Democratic Republic of the Congo
+63 2.916920E-04 1 Denmark
+64 1.487370E-04 1 Djibouti
+65 5.142140E-06 1 Dominica
+66 3.288580E-04 1 Dominican Republic
+67 1.022570E-04 1 East Timor
+68 1.760107E-03 1 Ecuador
+69 6.709929E-03 1 Egypt
+70 1.395580E-04 1 El Salvador
+71 1.854450E-04 1 Equatorial Guinea
+72 8.196480E-04 1 Eritrea
+73 3.066390E-04 1 Estonia
+74 7.738001E-03 1 Ethiopia
+75 8.383740E-05 1 Falkland Islands
+76 9.573440E-06 1 Faroe Islands
+77 1.269410E-04 1 Fiji
+78 2.257285E-03 1 Finland
+79 3.725123E-03 1 France
+80 5.678770E-04 1 French Guiana
+81 2.776740E-05 1 French Polynesia
+82 5.295330E-05 1 French Southern Territories
+83 1.817992E-03 1 Gabon
+84 7.307690E-05 1 Gambia
+85 4.742620E-04 1 Georgia
+86 2.417351E-03 1 Germany
+87 1.630625E-03 1 Ghana
+88 4.718880E-08 1 Gibraltar
+89 9.005810E-04 1 Greece
+90 1.440119E-02 1 Greenland
+91 2.481720E-06 1 Grenada
+92 1.123830E-05 1 Guadeloupe
+93 3.808820E-06 1 Guam
+94 7.466360E-04 1 Guatemala
+95 6.055890E-07 1 Guernsey
+96 1.674100E-03 1 Guinea
+97 2.319960E-04 1 Guinea-Bissau
+98 1.433369E-03 1 Guyana
+99 1.849210E-04 1 Haiti
+100 2.448480E-06 1 Heard Island and McDonald Islands
+101 7.683700E-04 1 Honduras
+102 7.704350E-06 1 Hong Kong
+103 6.297550E-04 1 Hungary
+104 6.886280E-04 1 Iceland
+105 2.152102E-02 1 India
+106 1.293944E-02 1 Indonesia
+107 1.104580E-02 1 Iran
+108 3.032829E-03 1 Iraq
+109 4.757180E-04 1 Ireland
+110 3.939240E-06 1 Isle of Man
+111 1.527210E-04 1 Israel
+112 2.041660E-03 1 Italy
+113 7.495010E-05 1 Jamaica
+114 2.533545E-03 1 Japan
+115 8.502190E-07 1 Jersey
+116 6.069740E-04 1 Jordan
+117 1.849718E-02 1 Kazakhstan
+118 3.986077E-03 1 Kenya
+119 7.014650E-06 1 Kiribati
+120 7.421080E-05 1 Kosovo
+121 1.185310E-04 1 Kuwait
+122 1.355391E-03 1 Kyrgyzstan
+123 1.570586E-03 1 Laos
+124 4.367740E-04 1 Latvia
+125 7.096510E-05 1 Lebanon
+126 2.075690E-04 1 Lesotho
+127 6.563470E-04 1 Liberia
+128 1.102337E-02 1 Libya
+129 1.094780E-06 1 Liechtenstein
+130 4.390860E-04 1 Lithuania
+131 1.732510E-05 1 Luxembourg
+132 2.161110E-07 1 Macao
+133 1.685600E-04 1 Macedonia
+134 4.041178E-03 1 Madagascar
+135 8.065660E-04 1 Malawi
+136 2.248675E-03 1 Malaysia
+137 2.001210E-06 1 Maldives
+138 8.546160E-03 1 Mali
+139 2.236750E-06 1 Malta
+140 2.098260E-06 1 Marshall Islands
+141 7.628990E-06 1 Martinique
+142 7.111621E-03 1 Mauritania
+143 1.380400E-05 1 Mauritius
+144 2.650850E-06 1 Mayotte
+145 1.332351E-02 1 Mexico
+146 5.321730E-06 1 Micronesia
+147 2.291230E-04 1 Moldova
+148 1.272050E-08 1 Monaco
+149 1.061624E-02 1 Mongolia
+150 9.053820E-05 1 Montenegro
+151 7.066010E-07 1 Montserrat
+152 2.816588E-03 1 Morocco
+153 5.377407E-03 1 Mozambique
+154 4.571532E-03 1 Myanmar
+155 5.626174E-03 1 Namibia
+156 1.470370E-07 1 Nauru
+157 1.006906E-03 1 Nepal
+158 2.560510E-04 1 Netherlands
+159 1.285540E-04 1 New Caledonia
+160 1.831403E-03 1 New Zealand
+161 8.770480E-04 1 Nicaragua
+162 8.090549E-03 1 Niger
+163 6.213763E-03 1 Nigeria
+164 1.844670E-06 1 Niue
+165 2.923650E-07 1 Norfolk Island
+166 8.340440E-04 1 North Korea
+167 3.413730E-06 1 Northern Mariana Islands
+168 2.179465E-03 1 Norway
+169 2.112587E-03 1 Oman
+170 5.958800E-03 1 Pakistan
+171 3.261150E-06 1 Palau
+172 4.231980E-05 1 Palestina
+173 5.147950E-04 1 Panama
+174 3.171633E-03 1 Papua New Guinea
+175 2.727839E-03 1 Paraguay
+176 8.837294E-03 1 Peru
+177 2.024214E-03 1 Philippines
+178 3.890680E-07 1 Pitcairn Islands
+179 2.111171E-03 1 Poland
+180 6.243520E-04 1 Portugal
+181 6.105690E-05 1 Puerto Rico
+182 7.665920E-05 1 Qatar
+183 2.339688E-03 1 Republic of Congo
+184 1.720680E-05 1 Reunion
+185 1.609712E-03 1 Romania
+186 1.140211E-01 1 Russia
+187 1.730250E-04 1 Rwanda
+188 1.995330E-06 1 Saint Helena
+189 1.833800E-06 1 Saint Kitts and Nevis
+190 4.245900E-06 1 Saint Lucia
+191 1.515240E-06 1 Saint Pierre and Miquelon
+192 2.707610E-06 1 Saint Vincent and the Grenadines
+193 1.606470E-07 1 Saint-Barthelemy
+194 3.822290E-07 1 Saint-Martin
+195 1.949250E-05 1 Samoa
+196 4.178600E-07 1 San Marino
+197 6.922520E-06 1 Sao Tome and Principe
+198 1.302766E-02 1 Saudi Arabia
+199 1.341078E-03 1 Senegal
+200 5.284510E-04 1 Serbia
+201 3.348760E-06 1 Seychelles
+202 4.975380E-04 1 Sierra Leone
+203 4.628740E-06 1 Singapore
+204 2.603590E-07 1 Sint Maarten
+205 3.325300E-04 1 Slovakia
+206 1.355710E-04 1 Slovenia
+207 1.949850E-04 1 Solomon Islands
+208 4.326349E-03 1 Somalia
+209 8.317876E-03 1 South Africa
+210 2.765770E-05 1 South Georgia and the South Sandwich Islands
+211 6.815910E-04 1 South Korea
+212 4.321609E-03 1 South Sudan
+213 3.437859E-03 1 Spain
+215 4.510820E-04 1 Sri Lanka
+216 1.279992E-02 1 Sudan
+217 9.985490E-04 1 Suriname
+218 4.057340E-04 1 Svalbard and Jan Mayen
+219 1.179100E-04 1 Swaziland
+220 3.025983E-03 1 Sweden
+221 2.826520E-04 1 Switzerland
+222 1.269481E-03 1 Syria
+223 2.474740E-04 1 Taiwan
+224 9.652360E-04 1 Tajikistan
+225 6.438942E-03 1 Tanzania
+226 3.515933E-03 1 Thailand
+227 3.902150E-04 1 Togo
+228 9.772860E-08 1 Tokelau
+229 5.232890E-06 1 Tonga
+230 3.527260E-05 1 Trinidad and Tobago
+231 1.054259E-03 1 Tunisia
+232 5.306589E-03 1 Turkey
+233 3.327581E-03 1 Turkmenistan
+234 6.702520E-06 1 Turks and Caicos Islands
+235 2.496900E-07 1 Tuvalu
+236 1.656285E-03 1 Uganda
+237 4.078184E-03 1 Ukraine
+238 5.408980E-04 1 United Arab Emirates
+239 1.657796E-03 1 United Kingdom
+240 6.433362E-02 1 United States
+241 2.894930E-07 1 United States Minor Outlying Islands
+242 1.208771E-03 1 Uruguay
+243 3.036002E-03 1 Uzbekistan
+244 8.434620E-05 1 Vanuatu
+246 6.239272E-03 1 Venezuela
+247 2.244701E-03 1 Vietnam
+248 2.448480E-06 1 Virgin Islands U.S.
+249 1.055800E-06 1 Wallis and Futuna
+250 1.823819E-03 1 Western Sahara
+251 3.091323E-03 1 Yemen
+252 5.137715E-03 1 Zambia
+253 2.669400E-03 1 Zimbabwe

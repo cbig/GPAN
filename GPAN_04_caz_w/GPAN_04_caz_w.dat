@@ -6,7 +6,7 @@ add edge points = 0
 
 z = 0.25
 
-post-processing list file = 
+post-processing list file = GPAN_post-processing_file.txt
 memory save mode = 0
 use groups = 1
 groups file = groups_iucn_species.txt

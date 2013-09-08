@@ -1,2 +1,6 @@
 *.vmat_bin.gz
 old-files/*
+*.Rproj
+.Rhistory
+.Rproj.user/*
+.directory

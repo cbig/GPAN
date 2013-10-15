@@ -1,0 +1,1 @@
+call zig4.exe -r GPAN_09_abf_w_ecor_admu0/GPAN_09_abf_w_ecor_admu0.dat GPAN_09_abf_w_ecor_admu0/GPAN_09_abf_w_ecor_admu0.spp GPAN_output/GPAN_09_abf_w_ecor_admu0/GPAN_09_abf_w_ecor_admu0.txt 0.0 0 1.0 0 --grid-output-formats=compressed-tif --image-output-formats=png 

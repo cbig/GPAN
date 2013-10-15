@@ -1,0 +1,1 @@
+call zig4.exe -r GPAN_13_abf_w_ecor_admu-middle/GPAN_13_abf_w_ecor_admu-middle.dat GPAN_13_abf_w_ecor_admu-middle/GPAN_13_abf_w_ecor_admu-middle.spp GPAN_output/GPAN_13_abf_w_ecor_admu-middle/GPAN_13_abf_w_ecor_admu-middle.txt 0.0 0 1.0 0 --grid-output-formats=compressed-tif --image-output-formats=png 

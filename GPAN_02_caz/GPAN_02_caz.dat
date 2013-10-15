@@ -9,14 +9,13 @@ z = 0.25
 post-processing list file = GPAN_post-processing_file.txt
 memory save mode = 0
 use groups = 1
-groups file = groups_iucn_species.txt
+groups file = GPAN_groups_iucn-taxa_species.txt
 mask missing areas = 1
-area mask file = ../../Data/GlobalData/9_Land_use_restrictions_conservation_areas/WorldDatabaseOnProtectedAreas/FINALS/IUCNWDPA_Grouped/IUCNWDPA_ItoIVMintersect_r16b/IUCNWDPA_ItoIVTerrMintersect_r16b.tif
-
+area mask file = ../../Data/GlobalData/9_Land_use_restrictions_conservation_areas/WorldDatabaseOnProtectedAreas/FINALS/IUCNWDPA_Grouped_r16/IUCNWDPA_ItoVIMintersect_r16b/IUCNWDPA_ItoVITerrMintersect_r16b.tif
 
 [vmat]
 load precooked vmat = GPAN_spp_only.vmat_bin.gz
-#save vmat = 
+#save vmat = vmat_bin
 
 [Administrative units]
 use ADMUs = 0

@@ -1,0 +1,26 @@
+[Settings]
+removal rule = 1
+warp factor = 1000
+edge removal = 1
+add edge points = 0
+
+z = 0.25
+
+memory save mode = 0
+use groups = 1
+groups file = GPAN_groups_iucn-taxa_species-ecor.txt
+mask missing areas = 1
+area mask file = ../../Data/GlobalData/9_Land_use_restrictions_conservation_areas/WorldDatabaseOnProtectedAreas/FINALS/TerrestrialOnly/IUCNWDPA_r16b/IUCNWPDA_CatItoVImIntersectTerr_r16b.tif
+
+[vmat]
+load precooked vmat = GPAN_w_ecor.vmat_bin.gz
+#save vmat = vmat_bin
+
+[Administrative units]
+use ADMUs = 1
+ADMU mode = 2
+ADMU descriptions file = GPAN_ADMU_description.txt
+ADMU layer file = ../../Data/GlobalData/1_AnalysisMasks_LocationMaps/GADM_CountryLevel_masks/FINALS/GADM_CountryCode_r16d.tif
+ADMU weight matrix = GPAN_ADMU_weight_matrix.txt
+Mode 2 global weight = 0.001
+row count for per ADMU output curves = 1000

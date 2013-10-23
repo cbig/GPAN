@@ -1,0 +1,1 @@
+call zig4.exe -r GPAN_16_caz_eqw_ecor/GPAN_16_caz_eqw_ecor.dat GPAN_species_ecor_eqw.spp GPAN_output/GPAN_16_caz_eqw_ecor/GPAN_16_caz_eqw_ecor.txt 0.0 0 1.0 0 --grid-output-formats=compressed-tif --image-output-formats=png 

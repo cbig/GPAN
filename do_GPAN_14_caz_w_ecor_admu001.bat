@@ -1,1 +1,1 @@
-call zig4.exe -r GPAN_14_caz_w_ecor_admu-middle/GPAN_14_caz_w_ecor_admu-middle.dat GPAN_14_caz_w_ecor_admu-middle/GPAN_14_caz_w_ecor_admu-middle.spp GPAN_output/GPAN_14_caz_w_ecor_admu-middle/GPAN_14_caz_w_ecor_admu-middle.txt 0.0 0 1.0 0 --grid-output-formats=compressed-tif --image-output-formats=png 
+call zig4.exe -r GPAN_14_caz_w_ecor_admu001/GPAN_14_caz_w_ecor_admu001.dat GPAN_species_ecor_w10.spp GPAN_output/GPAN_14_caz_w_ecor_admu001/GPAN_14_caz_w_ecor_admu001.txt 0.0 0 1.0 0 --grid-output-formats=compressed-tif --image-output-formats=png 

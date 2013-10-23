@@ -10,18 +10,8 @@ memory save mode = 0
 use groups = 1
 groups file = GPAN_groups_iucn-taxa_species-ecor.txt
 mask missing areas = 1
-area mask file = ../../Data/GlobalData/9_Land_use_restrictions_conservation_areas/WorldDatabaseOnProtectedAreas/FINALS/IUCNWDPA_Grouped_r16/IUCNWDPA_ItoVIMintersect_r16b/IUCNWDPA_ItoVITerrMintersect_r16b.tif
+area mask file = ../../Data/GlobalData/9_Land_use_restrictions_conservation_areas/WorldDatabaseOnProtectedAreas/FINALS/TerrestrialOnly/IUCNWDPA_r16b/IUCNWPDA_CatItoVImIntersectTerr_r16b.tif
 
 [vmat]
 #load precooked vmat = GPAN_w_ecor.vmat_bin.gz
 save vmat = vmat_bin
-
-[Administrative units]
-use ADMUs = 0
-ADMU mode = 1
-ADMU layer file = 
-ADMU descriptions file = 
-ADMU weight matrix = 
-calculate local weights from condition = 0
-Mode 2 global weight = 
-row count for per ADMU output curves = 0

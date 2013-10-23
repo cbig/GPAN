@@ -1,1 +1,0 @@
-LSM ../../Data/GlobalData/1_AnalysisMasks_LocationMaps/GADM_CountryLevel_masks/FINALS/GADM_CountryCode_r16/GADM_CountryCode_r16d.tif 0 -1 0

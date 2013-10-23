@@ -1,0 +1,1 @@
+call zig4.exe -r GPAN_TEST/GPAN_TEST.dat GPAN_TEST_spp_ecor.spp GPAN_output/GPAN_TEST/GPAN_TEST.txt 0.0 0 1.0 0 --grid-output-formats=compressed-tif --image-output-formats=png 
